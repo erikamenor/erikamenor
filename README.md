@@ -1,16 +1,27 @@
-## Hi there 👋
+# Oi! Eu sou a Érika! 👋
 
-<!--
-**erikamenor/erikamenor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre Mim
 
-Here are some ideas to get you started:
+Sou estudante de Design Digital, focada principalmente em desenvolvimento web e mobile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 Atualmente estou trabalhando com TypeScript, JavaScript, HTML, CSS e aprofundando meus conhecimentos em React.
+* 🌱 Buscando ativamente oportunidades para contribuir em projetos de [Tipo de projeto, ex: código aberto, projetos sociais, etc.].
+
+### 🛠️ Minhas Habilidades
+
+| Categoria | Tecnologias Principais |
+| :--- | :--- |
+| **Linguagens** | [JavaScript, Typescript, HTML, CSS] |
+| **Frontend** | [CSS, HTML] |
+| **Ferramentas** | [Git, VS Code, Figma] |
+
+### 📫 Conecte-se Comigo
+
+| Plataforma | Link |
+| :--- | :--- |
+| 🔗 **LinkedIn** | [https://www.linkedin.com/in/érika-menor-074765238] |
+| 📧 **E-mail** | [e.rochamenor@gmail.com] |
+
+---
+
+###### ⚡ Stats do GitHub
