@@ -1,24 +1,16 @@
-# Oi! Eu sou a Érika! 👋
+# Oi! Eu sou a Érika! 
 
-### 🚀 Sobre Mim
+### ✮⋆˙ Sobre Mim
 
 Sou estudante do oitavo semestre de **Design Digital** na UFC de Quixadá, e atualmente estou aprendendo desenvolvimento Web e Mobile. Tenho experiência como **desenvolvedora front-end** e atualmente estou estudando sobre as áreas de UX e UI.
 
-### 🛠️ Minhas Habilidades
+### ⋆˚꩜｡ Habilidades
 
-| Categoria | Tecnologias Principais |
-| :--- | :--- |
-| **Linguagens** | JavaScript, Typescript, HTML, CSS |
-| **Frontend** | CSS, HTML |
-| **Ferramentas** | Git, VS Code, Figma |
+**Linguagens:** JavaScript, TypeScript, HTML, CSS. <br/>
+**Ferramentas:** GitHub, VS Code, Figma.
 
-### 📫 Conecte-se Comigo
+### ✶⋆.˚ Contatos
 
-| Plataforma | Link |
-| :--- | :--- |
-| 🔗 **LinkedIn** | https://www.linkedin.com/in/érika-menor-074765238 |
-| 📧 **E-mail** | e.rochamenor@gmail.com |
+🔗 **LinkedIn:** https://www.linkedin.com/in/érika-menor-074765238 <br/>
+📧 **E-mail:** e.rochamenor@gmail.com
 
----
-
-###### ⚡ Stats do GitHub
