@@ -2,7 +2,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou estudante do oitavo semestre de Design Digital na UFC de Quixadá, focada em aprender principalmente desenvolvimento web e mobile.
+Sou estudante do oitavo semestre de **Design Digital** na UFC de Quixadá, e atualmente estou aprendendo desenvolvimento Web e Mobile. Tenho experiência como **desenvolvedora front-end** e atualmente estou estudando sobre as áreas de UX e UI.
 
 ### 🛠️ Minhas Habilidades
 
